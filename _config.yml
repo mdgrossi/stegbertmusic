@@ -14,7 +14,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 lang: en-US
-title: Saint Egbert Music Ministry
+title: St. Egbert Music Ministry
 email: oceanorganist@gmail.com
 description: Musical notes and schedules for St. Egbert Catholic Church, Morehead City
 baseurl: # the optional subpath of your site, e.g. "/blog"
@@ -26,6 +26,7 @@ author:
 twitter_username:
 linkedin_username: matthewgrossi
 github_username: mdgrossi
+youtube_username: seaswellsnippets
 logo: # path of site logo, e.g. "/assets/images/logo.png"
 search: true # true, false (default)
 search_full_content: false # true, false (default)
